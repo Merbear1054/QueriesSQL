@@ -1,0 +1,2 @@
+# QueriesSQL
+QueriesSQLexercise
